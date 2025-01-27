@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974481671159",
+    "firebase_url": "https://yerevan-mobile-guide.firebaseio.com",
+    "project_id": "yerevan-mobile-guide",
+    "storage_bucket": "yerevan-mobile-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974481671159:android:8a459aaaa05c9369",
+        "android_client_info": {
+          "package_name": "com.example.yerevanguideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974481671159-enqukugoebukn2m3j7sqbd576iv7alg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUmqP6V-emnTRY4a8EPxdAngVI9jR0Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974481671159-enqukugoebukn2m3j7sqbd576iv7alg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

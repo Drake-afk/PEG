@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="long_info">
+        <item>Armenian National Academic Theatre of Opera and Ballet named after Alexander Spendiaryan in Yerevan
+            was officially opened on 20 January 1933, with Alexander Spendiaryans Almast
+            opera performance. The opera building was designed by the Armenian architect Alexander Tamanian.
+            It consists of two concert halls: the Aram Khatchaturian concert hall with 1,400 seats and the Alexander Spendiaryan
+            Opera and Ballet National Theatre with 1,200 seats.</item>
+        <item>Arno Babajanian was an Armenian composer and pianist during the Soviet era. Babajanian was born in Yerevan, Armenia.
+            By age 5, his musical talent was apparent, and the composer Aram Khachaturian suggested that the boy be given proper music training.
+            Two years later, in 1928 at the age of 7, Babajanian entered the Yerevan State Musical Conservatory. In 1938, he continued his studies
+            in Moscow with Vissarion Shebalin.
+            He later returned to Yerevan, where from 1950–1956 he taught at the conservatory. It was during this period
+            (1952) that he wrote the Piano Trio in f# sharp minor. It received immediate acclaim and was regarded as a
+            masterpiece from the time of its premiere. Subsequently, he undertook concert tours throughout the Soviet Union and Europe.
+            In 1971, he was named a People’s Artist of the Soviet Union.
+            As a composer, Babajanian was active in most genres and even wrote many popular songs
+            in collaboration with the leading poets such as Yevgeny Yevtushenko and Robert Rozhdestvensky among others.
+            Much of Babajanian’s music is rooted in Armenian folk music and folklore. But generally, the way in which he uses
+            Armenian folk music is in the virtuosic style of Rachmaninov and Khachaturian. His later works were influenced by Prokofiev
+            and Bartók. Praised by Dmitri Shostakovich as a "brilliant piano teacher", Babajanian was also a noted pianist and often performed
+            his own works in concerts.</item>
+        <item>Aram Ilyich Khachaturian was a Soviet Armenian composer and conductor. He is considered one of the leading Soviet composers.
+            Born and raised in Tbilisi, the capital of Georgia, Khachaturian moved to Moscow in 1921 following the Sovietization of the Caucasus.
+            Without prior music training, he enrolled in the Gnessin Musical Institute, subsequently studying at the Moscow Conservatory in the
+            class of Nikolai Myaskovsky, among others. His first major work, the Piano Concerto (1936), popularized his name within and outside
+            the Soviet Union. It was followed by the Violin Concerto (1940) and the Cello Concerto (1946). His other significant compositions include
+            the Masquerade Suite (1941), the Anthem of the Armenian SSR (1944), three symphonies (1935, 1943, 1947), and around 25 film scores.
+            Khachaturian is best known for his ballet music—Gayane (1942) and Spartacus (1954). His most popular piece, the "Sabre Dance" from Gayane,
+            has been used extensively in popular culture and has been covered by a number of musicians worldwide. His style is "characterized by colorful harmonies,
+            captivating rhythms, virtuosity, improvisations, and sensuous melodies".</item>
+        <item>Soghomon Soghomonian, ordained and commonly known as Komitas, was an Armenian priest, musicologist, composer, arranger, singer, and choirmaster,
+            who is considered the founder of the Armenian national school of music. He is recognized as one of the pioneers of ethnomusicology.
+            Orphaned at a young age, Komitas was taken to Etchmiadzin, Armenias religious center, where he received education at the Gevorgian Seminary.
+            Following his ordination as vardapet (celibate priest) in 1895, he studied music at the Frederick William University in Berlin. He thereafter
+            "used his Western training to build a national tradition". He collected and transcribed over 3,000 pieces of Armenian folk music, more than
+            half of which were subsequently lost and only around 1,200 are now extant. Besides Armenian folk songs, he also showed interest in other cultures
+            and in 1904 published the first-ever collection of Kurdish folk songs. His choir presented Armenian music in many European cities, earning the praise
+            of Claude Debussy, among others. Komitas settled in Constantinople in 1910 to escape mistreatment by ultra-conservative clergymen at Etchmiadzin and to
+            introduce Armenian folk music to wider audiences. He was widely embraced by Armenian communities, while Arshag Chobanian called him the "savior of Armenian music".</item>
+
+
+    </string-array>
+</resources>

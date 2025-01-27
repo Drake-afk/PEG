@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">YerevanGuideApp</string>
+
+    <string-array name="places">
+        <item>Opera Theatre</item>
+        <item>Arno Babajanyan Statue</item>
+        <item>Graffity Wall</item>
+        <item>Aram Khachaturian Statue</item>
+        <item>Komitas Park</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Armenian National Academic Theatre of Opera and Ballet named after Alexander Spendiaryan</item>
+        <item>Monument of Arno Babajanyan, an Armenian composer and pianist during the Soviet era</item>
+        <item>A graffity wall on teryan street</item>
+        <item>Monument of Aram Khachaturian, a Soviet Armenian composer and conductor. He is considered one of the leading Soviet composers. </item>
+        <item>A park of Soghomon Soghomonian, ordained and commonly known as Komitas</item>
+    </string-array>
+
+    <string-array name="place_type">
+        <item>OTHER</item>
+        <item>MONUMENT</item>
+        <item>OTHER</item>
+        <item>MONUMENT</item>
+        <item>PARK</item>
+    </string-array>
+
+    <string-array name="coordinates_lat">
+        <item>40.185818</item>
+        <item>40.184071</item>
+        <item>40.182328</item>
+        <item>40.186656</item>
+        <item>40.187192</item>
+    </string-array>
+
+    <string-array name="coordinates_lng">
+        <item>44.515059</item>
+        <item>44.515551</item>
+        <item>44.513714</item>
+        <item>44.515135</item>
+        <item>44.516230</item>
+    </string-array>
+
+</resources>
