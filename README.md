@@ -1,4 +1,6 @@
 # PEG
+[Video Demo] (https://youtu.be/K6vtXv-1vlA)
+
 Personal Electronic Guide - a prototype android app project for tourism in Armenia I developed as a Bachelor's degree work. The goal was to make an app that acts like a buddy as you walk around the cities, sending you relevant information about places you might be interested in, like cultural monuments, galleries and whatever suits your preference, and ping you, if you pass by one so you don't miss out!\
 \
 ![alt text](imgs/Picture2.png)   ![alt text](imgs/Picture.png)   ![alt text](imgs/Picture3.png)
@@ -19,3 +21,5 @@ Personal Electronic Guide - a prototype android app project for tourism in Armen
 - Java for Android development
 - XML for ui templates
 - Google Maps API for navigation
+
+Done at RAU (Russian-Armenian University) 2019
