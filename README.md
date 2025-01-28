@@ -1,7 +1,9 @@
 # PEG
-Personal Electronic Guide - a prototype android app project for tourism in Armenia I developed as a Bachelor's degree work. The goal was to make an app that acts like a buddy as you walk around the cities, sending you relevant information about places you might be interested in, like cultural monuments, galleries and whatever suits your preference, and ping you, if you pass by one so you don't miss out! 
-![alt text](imgs/Picture2.png) ![alt text](imgs/Picture.png) ![alt text](imgs/Picture3.png)
-
+Personal Electronic Guide - a prototype android app project for tourism in Armenia I developed as a Bachelor's degree work. The goal was to make an app that acts like a buddy as you walk around the cities, sending you relevant information about places you might be interested in, like cultural monuments, galleries and whatever suits your preference, and ping you, if you pass by one so you don't miss out!\
+\
+![alt text](imgs/Picture2.png)   ![alt text](imgs/Picture.png)   ![alt text](imgs/Picture3.png)
+\
+\
 ## Objectives
 - Build an app that feels more like a natural side-by-side guide
 - Provide live guidance even outside the app to ensure the user doesn't miss out
